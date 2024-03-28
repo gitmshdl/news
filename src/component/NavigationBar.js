@@ -5,7 +5,7 @@ import classes from "./NavigationBar.module.css";
 function NavigationBar({ setCategory }) {
   return (
     <Navbar
-      variant="underline"
+      expand="sm"
       defaultActiveKey="#home"
       className={`${classes.bar} bg-body-tertiary`}
       data-bs-theme="dark"
