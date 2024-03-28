@@ -1,0 +1,10 @@
+.card {
+  width: 21.5rem;
+}
+.btn {
+  background-color: var(--umber);
+  color: white;
+}
+.cardBody {
+  background-color: var(--blush);
+}
